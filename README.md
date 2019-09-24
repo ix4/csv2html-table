@@ -1,8 +1,8 @@
 # CSV to HTML Table
 
 Display any CSV file as a searchable, filterable, pretty HTML table. Done in 100% JavaScript.
-
-Check out the working demo: http://derekeder.github.io/csv-to-html-table/
+(My fork's URL: https://ix4.github.io/csv2html-table/)  
+Check out the **original** working demo: http://derekeder.github.io/csv-to-html-table/
 
 ## Usage
 
